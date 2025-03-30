@@ -20,6 +20,9 @@
 ## quit
 * exit
 
+## backup
+* wsl --export Ubuntu-24.04 ubuntu.tar
+
 
 
 
