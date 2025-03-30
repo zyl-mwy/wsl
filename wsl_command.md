@@ -11,6 +11,9 @@
 ## run
 * wsl -d Ubuntu-24.04
 
+## quit
+* exit
+
 ## default
 * wsl --set-default Ubuntu-24.04
 
