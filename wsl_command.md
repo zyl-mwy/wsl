@@ -23,6 +23,10 @@
 ## backup
 * wsl --export Ubuntu-24.04 ubuntu.tar
 
+## import 
+* wsl --import Ubuntu2 D:/wsl ubuntu.tar
+
+
 
 
 
