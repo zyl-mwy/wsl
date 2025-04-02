@@ -24,4 +24,7 @@ startxfce4
 * sudo /etc/init.d/xrdp start
 
 * windows remote desktop connection
+```
+localhost:3390
+```
 * 
